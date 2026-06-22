@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Attendance Management System",
+  "description": "A comprehensive school attendance tracker with real-time statistics, student indicators, evaluation reports, and seamless webhook integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
